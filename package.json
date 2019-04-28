@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/HaysS/smart-contract-practice/issues"
   },
-  "homepage": "https://github.com/HaysS/smart-contract-practice#readme"
+  "homepage": "https://github.com/HaysS/smart-contract-practice#readme",
+  "dependencies": {
+    "solc": "^0.5.7"
+  }
 }
