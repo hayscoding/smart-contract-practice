@@ -1,0 +1,19 @@
+{
+  "name": "smart-contract-practice",
+  "version": "1.0.0",
+  "description": "Practicing my smart contractz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaysS/smart-contract-practice.git"
+  },
+  "author": "Hays Stanford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaysS/smart-contract-practice/issues"
+  },
+  "homepage": "https://github.com/HaysS/smart-contract-practice#readme"
+}
