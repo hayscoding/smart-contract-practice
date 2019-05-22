@@ -249,5 +249,3 @@ contract SibiCoin is owned, TokenERC20 {
         msg.sender.transfer(amount * sellPrice);            // sends ether to the seller. It's important to do this last to avoid recursion attacks
     }
 }
-
-view rawsibicoin.js hosted with ❤ by GitHub
